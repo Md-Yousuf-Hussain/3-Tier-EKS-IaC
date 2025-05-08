@@ -2,18 +2,18 @@
 
 # Prerequisite 
 
-**Install Kubectl**
+**Install Kubectl:**
 https://kubernetes.io/docs/tasks/tools/
 
 
-**Install Helm**
+##**Install Helm:**
 https://helm.sh/docs/intro/install/
 
 ```
 helm repo update
 ```
 
-**Install/update latest AWS CLI:** (make sure install v2 only)
+##**Install/update latest AWS CLI:** (make sure install v2 only)
 https://aws.amazon.com/cli/
 
 
