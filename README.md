@@ -1,6 +1,6 @@
-# three-tier-eks-iac
+# 3 Tier EKS using IaC
 
-# Prerequisite 
+## Prerequisite 
 
 **Install Kubectl:**
 https://kubernetes.io/docs/tasks/tools/
